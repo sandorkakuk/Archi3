@@ -227,17 +227,37 @@ sddm
 
 ##### want to add/use a Desktop
 i3
+
+###Applications
+
+#File manager
 pcmanfm
+
+#Browser
 firefox
+
+#Text editor
 geany
 iw
 calc
 dunst
+
+#Randr
 lxrandr
+
+#Task manager
 lxtask
+
+#Picture viewer
 viewnior
+
+#Terminal emulator
 alacritty
+
+#Media player
 mpv
+
+#Bluetooth managrt
 blueman
 backlight
 fwupdate
