@@ -138,7 +138,7 @@ zsh
 ###             VIA CALAMARES CONFIG                ###
 #######################################################
 
-alci-dwm
+#alci-dwm
 #alci-dwm-nemesis
 alci-calamares
 #alci-calamares-dev
@@ -150,7 +150,7 @@ alci-calamares-config
 #alci-calamares-config-pure
 #alci-calamares-config-xanmod
 #alci-calamares-config-zen
-xterm
+#xterm
 
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
@@ -168,19 +168,34 @@ xorg-xrdb
 mkinitcpio-openswap
 
 ##### you can also use nmtui from the terminal
-#networkmanager
-#network-manager-applet
+networkmanager
+network-manager-applet
+
+##Network
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-strongswan
+networkmanager-vpnc
+network-manager-sstp
+nm-connection-editor
+ufw
+#gufw
 
 #######################################################
 ###                    EXTRAS                       ###
 #######################################################
 
-##### xorg applications
+##### CPU drivers
+#amd-ucode 
+intel-ucode
 
-#xorg-server
-#xorg-apps
-#neofetch
-
+##### Xorg
+#xorg
+#xorg-drivers
+#xorg-fonts
+#plymouth
+#wayland
 
 ##### Drivers for graphical cards
 
@@ -199,22 +214,8 @@ mkinitcpio-openswap
 #nvidia-utils
 
 
-
-##### lightdm display manager
-
-#lightdm
-#lightdm-gtk-greeter
-
 ##### sddm display manager
-
-#sddm
-#alci-sddm-plasma-archpaint
-
-##### gdm display manager
-
-#gdm
-
-
+sddm
 
 ##### want to have base-devel group
 
@@ -224,31 +225,29 @@ mkinitcpio-openswap
 
 #linux-headers
 
-
-
-##### want to have a desktop
-
-#test
-#xfce4
-#xfce4-goodies
-#neofetch
-
+##### want to add/use a Desktop
+i3
+pcmanfm
+firefox
+geany
+iw
+calc
+dunst
+lxrandr
+lxtask
+viewnior
+alacritty
+mpv
+blueman
+backlight
+fwupdate
 
 ##### want to add/use the ArcoLinux repos
-
-#arcolinux-mirrorlist-git
-#arcolinux-keyring
-
-#test
-#arcolinux-wallpapers-git
 
 ##### want to add/use the Chaotic repo
 
 #chaotic-mirrorlist
 #chaotic-keyring
-
-#test
-#colloid-cursors-git
 
 
 ##### want to add/use your local repo packages
@@ -259,9 +258,10 @@ mkinitcpio-openswap
 #Change the name erik to your own username
 #update the database
 
-#test
-#nemesis-wallpapers
-
+##Application from local repo
+archlinux-themes-sddm
+grub2-theme-archlinux
+plymouth-theme-archlinux
 
 #### want have a btrfs format
 #### use alci-calamares-config-btrfs 
@@ -271,5 +271,36 @@ mkinitcpio-openswap
 #timeshift-autosnap
 git
 
-#grub theme
-alci-grub-theme-git
+
+## Archives
+bzip2
+gzip
+lrzip
+lz4
+lzip
+lzop
+xz
+zstd
+p7zip
+zip
+unzip
+unrar
+unarchiver
+xarchiver
+
+
+## Files
+gvfs
+gvfs-mtp
+gvfs-afc
+gvfs-gphoto2
+gvfs-smb
+gvfs-google
+highlight
+trash-cli
+ueberzug
+xdg-user-dirs
+xdg-user-dirs-gtk
+
+#Manage Printers in Linu
+system-config-printer
