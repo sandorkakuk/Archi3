@@ -197,7 +197,7 @@ bar {
 #
 
 # Display Wallpaper
-exec_always feh --bg-fill /usr/share/backgrounds/bg.jpg
+exec_always feh --bg-fill /usr/share/backgrounds/archlinux/reflected.jpg
 
 # start a terminal
 bindsym $mod+Return exec alacritty
