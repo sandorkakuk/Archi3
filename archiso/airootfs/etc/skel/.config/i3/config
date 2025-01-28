@@ -198,9 +198,6 @@ bar {
 
 # Display Wallpaper
 exec_always feh --bg-fill /usr/share/backgrounds/bg.jpg
-#
-# This is custom settings section /etc/skel
-#
 
 # start a terminal
 bindsym $mod+Return exec alacritty
