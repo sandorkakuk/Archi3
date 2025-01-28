@@ -189,7 +189,7 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
         # Take a screenshot by right clicking on the bar
-		bindsym --release button3 exec --no-startup-id import $HOME/latest-screenshot.png
+	bindsym --release button3 exec --no-startup-id import $HOME/latest-screenshot.png
 }
 
 #
