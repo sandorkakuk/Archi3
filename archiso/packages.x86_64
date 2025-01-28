@@ -259,8 +259,8 @@ mpv
 
 #Bluetooth managrt
 blueman
-backlight
-fwupdate
+#backlight
+#fwupdate
 
 ##### want to add/use the ArcoLinux repos
 
