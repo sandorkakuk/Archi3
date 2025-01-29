@@ -257,6 +257,9 @@ alacritty
 #Media player
 mpv
 
+#Dynamic menu
+dmenu
+
 #Bluetooth managrt
 blueman
 #backlight
