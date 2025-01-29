@@ -186,11 +186,11 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        status_command i3status
-        # Take a screenshot by right clicking on the bar
-	bindsym --release button3 exec --no-startup-id import $HOME/latest-screenshot.png
-}
+#bar {
+#        status_command i3status
+#        # Take a screenshot by right clicking on the bar
+#	bindsym --release button3 exec --no-startup-id import $HOME/latest-screenshot.png
+#}
 
 #
 # This is custom settings section /etc/skel
@@ -213,3 +213,66 @@ bindsym $mod+t exec geany
 
 # start a Monitor settings
 bindsym $mod+m exec lxrandr
+
+bar {
+        status_command i3status
+        # disable clicking on workspace buttons
+    
+		bindsym button1 nop
+    
+		# Take a screenshot by right clicking on the bar
+		bindsym --release button3 exec --no-startup-id import /tmp/latest-screenshot.png
+    
+		# execute custom script when scrolling downwards
+		bindsym button5 exec ~/.i3/scripts/custom_wheel_down
+		position bottom
+	
+		# Obey Fitts's law
+		tray_padding 0
+	
+		font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+		font pango:DejaVu Sans Mono 10
+	
+		separator_symbol ":|:"
+		
+		workspace_buttons yes
+    
+    #	By default, the width a workspace button is determined by the width of the text showing the workspace name. If the name is too short (say, one letter), then the workspace button might look too small.
+		#Minimal width for workspace buttons
+		workspace_min_width 40
+	
+		#Strip workspace numbers/name
+		#Specifies whether workspace numbers should be displayed within the workspace buttons. This is useful if you want to have a named workspace that stays in order on the bar according to its number without displaying the number prefix.
+		strip_workspace_numbers yes
+	
+		#Colors
+		#As with i3, colors are in HTML hex format (#rrggbb, optionally #rrggbbaa). The following colors can be configured at the moment:
+		colors {
+			background #000000
+			statusline #ffffff
+			separator #666666
+
+			focused_workspace  #4c7899 #285577 #ffffff
+			active_workspace   #333333 #5f676a #ffffff
+			inactive_workspace #333333 #222222 #888888
+			urgent_workspace   #2f343a #900000 #ffffff
+			binding_mode       #2f343a #900000 #ffffff
+		}
+    
+	#i3bar can support transparency by passing the --transparency flag in the configuration:
+	####i3bar_command i3bar --transparency
+	
+	#To make i3bar higher (without increasing the font size), and/or add padding to the left and right side of i3bar, you can use the padding directive:
+	# 2px left/right and 2px top/bottom padding
+    padding 2px
+
+    # 2px top/bottom padding, no left/right padding
+    padding 2px 0
+
+    # 2px top padding, no left/right padding, 4px bottom padding
+    padding 2px 0 4px
+
+    # 2px top padding, 6px right padding, 4px bottom padding, 1px left padding
+    padding 2px 6px 4px 1px
+}
+
