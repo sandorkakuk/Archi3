@@ -3,6 +3,7 @@
 The project tries to follow the Arch Linux credo and the K.I.S.S philosophy, but also focuses on user-friendliness.
 
 # Features
+- Arch Linux basw system
 - Lightweight applications
 - i3wm
 - Calamares GUI installerLow CPU usage - Low memory usage +
