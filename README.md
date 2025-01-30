@@ -1,4 +1,4 @@
-# About
+# Archi3
 
 Yet another minimal linux distribution, based on Arch Linux
 
