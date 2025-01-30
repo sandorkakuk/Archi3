@@ -228,7 +228,13 @@ sddm
 ##### want to add/use a Desktop
 i3
 
+#Wallpapers
+archlinux-wallpapers
+
 ###Applications
+iw
+calc
+dunst
 
 #File manager
 pcmanfm
@@ -238,9 +244,6 @@ firefox
 
 #Text editor
 geany
-iw
-calc
-dunst
 
 #Randr
 lxrandr
