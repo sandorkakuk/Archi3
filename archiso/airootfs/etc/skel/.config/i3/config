@@ -50,7 +50,7 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-#bindsym $mod+Return exec i3-sensible-terminal
+#bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -197,7 +197,7 @@ bindsym $mod+r mode "resize"
 #
 
 # Display Wallpaper
-exec_always feh --bg-fill /usr/share/backgrounds/archlinux/reflected.jpg
+exec_always feh --bg-max /usr/share/backgrounds/archlinux/reflected.jpg
 
 # start a terminal
 bindsym $mod+Return exec alacritty
@@ -217,8 +217,9 @@ bindsym $mod+m exec lxrandr
 bar {
         status_command i3status
         # disable clicking on workspace buttons
-    
-		bindsym button1 nop
+        
+        # Mouse button commands   
+		# bindsym button1 nop
     
 		# Take a screenshot by right clicking on the bar
 		bindsym --release button3 exec --no-startup-id import /tmp/latest-screenshot.png
@@ -226,29 +227,39 @@ bar {
 		# execute custom script when scrolling downwards
 		bindsym button5 exec ~/.i3/scripts/custom_wheel_down
 		
-		#Position
+		# Position
+		# This option determines in which edge of the screen i3bar should show up.
 		position bottom
-	
+		
+		# The tray is shown on the right-hand side of the bar. By default, a padding of 2 pixels is used for the upper, lower and right-hand side of the tray area and between the individual icons.
 		# Obey Fitts's law
 		tray_padding 0
-	
+		
+		# Fonts
+		# Specifies the font to be used in the bar.
 		font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 		font pango:DejaVu Sans Mono 10
-	
+		
+		# Custom separator symbol
+		# Specifies a custom symbol to be used for the separator as opposed to the vertical, one pixel thick separator.
 		separator_symbol ":|:"
 		
+		# Workspace buttons
+		# Specifies whether workspace buttons should be shown or not. This is useful if you want to display a statusline-only bar containing additional information.
+		# The default is to show workspace buttons.
 		workspace_buttons yes
-    
-    	#By default, the width a workspace button is determined by the width of the text showing the workspace name. If the name is too short (say, one letter), then the workspace button might look too small.
+		
+		# Minimal width for workspace buttons
+    	# By default, the width a workspace button is determined by the width of the text showing the workspace name. If the name is too short (say, one letter), then the workspace button might look too small.
 		#Minimal width for workspace buttons
 		workspace_min_width 40
 	
-		#Strip workspace numbers/name
-		#Specifies whether workspace numbers should be displayed within the workspace buttons. This is useful if you want to have a named workspace that stays in order on the bar according to its number without displaying the number prefix.
+		# Strip workspace numbers/name
+		# Specifies whether workspace numbers should be displayed within the workspace buttons. This is useful if you want to have a named workspace that stays in order on the bar according to its number without displaying the number prefix.
 		strip_workspace_numbers yes
 	
-		#Colors
-		#As with i3, colors are in HTML hex format (#rrggbb, optionally #rrggbbaa). The following colors can be configured at the moment:
+		# Colors
+		# As with i3, colors are in HTML hex format (#rrggbb, optionally #rrggbbaa). The following colors can be configured at the moment:
 		colors {
 			background #000000
 			statusline #ffffff
@@ -261,10 +272,10 @@ bar {
 			binding_mode       #2f343a #900000 #ffffff
 		}
     
-	#i3bar can support transparency by passing the --transparency flag in the configuration:
+	#i 3bar can support transparency by passing the --transparency flag in the configuration:
 	####i3bar_command i3bar --transparency
 	
-	#To make i3bar higher (without increasing the font size), and/or add padding to the left and right side of i3bar, you can use the padding directive:
+	# To make i3bar higher (without increasing the font size), and/or add padding to the left and right side of i3bar, you can use the padding directive:
 	# 2px left/right and 2px top/bottom padding
     padding 2px
 
@@ -277,6 +288,3 @@ bar {
     # 2px top padding, 6px right padding, 4px bottom padding, 1px left padding
     padding 2px 6px 4px 1px
 }
-
-#####
-# More information here: https://i3wm.org/docs/userguide.html
