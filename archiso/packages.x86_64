@@ -228,13 +228,16 @@ sddm
 ##### want to add/use a Desktop
 i3
 
-#Wallpapers
-archlinux-wallpapers
+# Wallpapers
+#archlinux-wallpapers
+feh
+
+# Notification
+dunst
 
 ###Applications
 iw
 calc
-dunst
 
 #File manager
 pcmanfm
