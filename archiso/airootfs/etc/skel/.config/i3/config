@@ -225,6 +225,8 @@ bar {
     
 		# execute custom script when scrolling downwards
 		bindsym button5 exec ~/.i3/scripts/custom_wheel_down
+		
+		#Position
 		position bottom
 	
 		# Obey Fitts's law
@@ -237,7 +239,7 @@ bar {
 		
 		workspace_buttons yes
     
-    #	By default, the width a workspace button is determined by the width of the text showing the workspace name. If the name is too short (say, one letter), then the workspace button might look too small.
+    	#By default, the width a workspace button is determined by the width of the text showing the workspace name. If the name is too short (say, one letter), then the workspace button might look too small.
 		#Minimal width for workspace buttons
 		workspace_min_width 40
 	
