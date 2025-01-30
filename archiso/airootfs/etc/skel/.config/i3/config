@@ -50,7 +50,7 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec alacritty
+#bindsym $mod+Return exec i3-sensible-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -278,3 +278,5 @@ bar {
     padding 2px 6px 4px 1px
 }
 
+#####
+# More information here: https://i3wm.org/docs/userguide.html
