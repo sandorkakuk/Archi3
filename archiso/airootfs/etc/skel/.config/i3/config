@@ -222,8 +222,7 @@ bar {
 		# bindsym button1 nop
     
 		# Take a screenshot by right clicking on the bar
-		bindsym --release button3 exec --no-startup-id import /tmp/latest-screenshot.png
-    
+		bindsym --release button3 exec --no-startup-id import /$HOME/Screenshot-$(date +%Y-%m-%d_%H:%M:%S).png
 		# execute custom script when scrolling downwards
 		bindsym button5 exec ~/.i3/scripts/custom_wheel_down
 		
