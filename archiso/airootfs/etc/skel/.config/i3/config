@@ -252,7 +252,7 @@ bar {
 		# Minimal width for workspace buttons
     	# By default, the width a workspace button is determined by the width of the text showing the workspace name. If the name is too short (say, one letter), then the workspace button might look too small.
 		#Minimal width for workspace buttons
-		workspace_min_width 40
+		#workspace_min_width 40
 	
 		# Strip workspace numbers/name
 		# Specifies whether workspace numbers should be displayed within the workspace buttons. This is useful if you want to have a named workspace that stays in order on the bar according to its number without displaying the number prefix.
