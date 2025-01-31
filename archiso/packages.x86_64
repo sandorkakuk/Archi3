@@ -195,6 +195,7 @@ xorg
 xorg-drivers
 xorg-fonts
 plymouth
+dracut
 #wayland
 
 ##### Drivers for graphical cards
