@@ -191,10 +191,10 @@ ufw
 intel-ucode
 
 ##### Xorg
-#xorg
-#xorg-drivers
-#xorg-fonts
-#plymouth
+xorg
+xorg-drivers
+xorg-fonts
+plymouth
 #wayland
 
 ##### Drivers for graphical cards
