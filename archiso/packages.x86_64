@@ -1,4 +1,4 @@
-alsa-utils
+7alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
@@ -242,6 +242,8 @@ calc
 
 #File manager
 pcmanfm
+lxappearance
+lxappearance-gtk3
 
 #Browser
 firefox
