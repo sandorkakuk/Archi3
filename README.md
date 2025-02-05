@@ -6,6 +6,7 @@ Yet another minimal linux distribution, based on Arch Linux and i3
 - [Arch Linux](https://archlinux.org/) base system
 - [Calamares](https://calamares.io/) GUI installer
 - [i3](https://i3wm.org/) tiling window manager
+- [PCMan](https://github.com/lxde/pcmanfm) File Manager
 - Lightweight applications
 - Low CPU usage + Low memory usage + Energy saving = Lower ecological footprint
 - 
