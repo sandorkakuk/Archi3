@@ -233,6 +233,10 @@ i3
 #archlinux-wallpapers
 feh
 
+#Theme
+materia-gtk-theme
+fcitx5-material-color
+
 # Notification
 dunst
 
