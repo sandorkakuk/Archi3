@@ -298,6 +298,7 @@ blueman
 archlinux-themes-sddm
 grub2-theme-archlinux
 plymouth-theme-archlinux
+paper-icon-theme
 
 #### want have a btrfs format
 #### use alci-calamares-config-btrfs 
