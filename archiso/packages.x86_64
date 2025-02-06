@@ -246,8 +246,8 @@ calc
 
 #File manager
 pcmanfm
-lxappearance
-lxappearance-gtk3
+#lxappearance
+#lxappearance-gtk3
 
 #Browser
 firefox
