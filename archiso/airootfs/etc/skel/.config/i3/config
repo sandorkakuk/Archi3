@@ -188,8 +188,6 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 #bar {
 #        status_command i3status
-#        # Take a screenshot by right clicking on the bar
-#	bindsym --release button3 exec --no-startup-id import $HOME/latest-screenshot.png
 #}
 
 #
@@ -223,6 +221,7 @@ bar {
     
 		# Take a screenshot by right clicking on the bar
 		bindsym --release button3 exec --no-startup-id import /$HOME/Screenshot-$(date +%Y-%m-%d_%H:%M:%S).png
+    
 		# execute custom script when scrolling downwards
 		bindsym button5 exec ~/.i3/scripts/custom_wheel_down
 		
