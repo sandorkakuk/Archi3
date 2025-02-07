@@ -2,7 +2,7 @@
 
 Yet another minimal linux distribution, based on Arch Linux and i3
 
-![Screenshot_archlinux_2025-02-07_13:07:59](https://github.com/user-attachments/assets/245351f5-be68-40f6-aea1-48645cf03818)
+![Uploading Screenshot_archlinux_2025-02-07_13:16:41.png…]()
 
 
 # Features
