@@ -3,7 +3,7 @@
 
 iso_name="archi3"
 iso_label="ARCHI3_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Archi3 <https://archlinux.org>"
+iso_publisher="Sándor Kakuk <https://github.com/sandorkakuk>"
 iso_application="Archi3 Live/Rescue DVD"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
