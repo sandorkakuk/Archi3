@@ -235,8 +235,9 @@ feh
 
 #Theme
 materia-gtk-theme
+materia-kde
 fcitx5-material-color
-breeze-grub
+#breeze-grub
 
 # Notification
 dunst
