@@ -19,7 +19,7 @@ Minimalism, user-friendliness, low ecological footprint.
 # Screenshots
 ![Screenshot_archlinux_2025-02-07_13:16:41](https://github.com/user-attachments/assets/06d32f49-4e04-42ea-8e5d-af127d5ac78d)
 
-# Codenames
+# Code names
 
 Thanks to our way of life, many animal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and to draw people's attention to the dangers.
 
