@@ -151,6 +151,7 @@ alci-calamares-config
 #alci-calamares-config-xanmod
 #alci-calamares-config-zen
 #xterm
+gparted
 
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
@@ -246,39 +247,39 @@ dunst
 iw
 calc
 
-#File manager
+# File manager
 pcmanfm
 #lxappearance
 #lxappearance-gtk3
 
-#Screenshot
+# Screenshot
 #import
 
-#Browser
+# Browser
 firefox
 
-#Text editor
+# Text editor
 geany
 
-#Randr
+# Randr
 lxrandr
 
-#Task manager
+# Task manager
 lxtask
 
-#Picture viewer
+# Picture viewer
 viewnior
 
-#Terminal emulator
+# Terminal emulator
 alacritty
 
-#Media player
+# Media player
 mpv
 
-#Dynamic menu
+# Dynamic menu
 dmenu
 
-#Bluetooth managrt
+# Bluetooth managrt
 blueman
 #backlight
 #fwupdate
@@ -309,7 +310,7 @@ paper-icon-theme
 #### want have a btrfs format
 #### use alci-calamares-config-btrfs 
 
-#timeshift
+# timeshift
 #grub-btrfs
 #timeshift-autosnap
 git
@@ -345,5 +346,5 @@ ueberzug
 xdg-user-dirs
 xdg-user-dirs-gtk
 
-#Manage Printers in Linu
+# Manage Printers in Linu
 system-config-printer
