@@ -2,6 +2,7 @@
 # Archi3
 
 Yet another linux distribution, based on Arch Linux and i3
+Minimalism, user-friendliness, low ecological footprint.
 
 # Features
 - [Arch Linux](https://archlinux.org/) base system
