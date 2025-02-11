@@ -18,3 +18,9 @@ Minimalism, user-friendliness, low ecological footprint.
 - 
 # Screenshots
 ![Screenshot_archlinux_2025-02-07_13:16:41](https://github.com/user-attachments/assets/06d32f49-4e04-42ea-8e5d-af127d5ac78d)
+
+# Codenames
+
+Each release bears the name of an endangered species.
+Background images for the editions are taken from the [WWF](https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status) pages.
+
