@@ -234,7 +234,7 @@ i3
 #archlinux-wallpapers
 feh
 
-#Theme
+# Theme
 materia-gtk-theme
 materia-kde
 #fcitx5-material-color
