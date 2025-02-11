@@ -231,14 +231,11 @@ sddm
 i3
 
 # Wallpapers
-#archlinux-wallpapers
 feh
 
 # Theme
 materia-gtk-theme
 materia-kde
-#fcitx5-material-color
-#breeze-grub
 
 # Notification
 dunst
@@ -249,11 +246,6 @@ calc
 
 # File manager
 pcmanfm
-#lxappearance
-#lxappearance-gtk3
-
-# Screenshot
-#import
 
 # Browser
 firefox
@@ -281,8 +273,6 @@ dmenu
 
 # Bluetooth managrt
 blueman
-#backlight
-#fwupdate
 
 ##### want to add/use the ArcoLinux repos
 
