@@ -348,3 +348,5 @@ xdg-user-dirs-gtk
 
 # Manage Printers in Linu
 system-config-printer
+
+boost-libs
