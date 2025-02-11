@@ -236,7 +236,7 @@ feh
 #Theme
 materia-gtk-theme
 materia-kde
-fcitx5-material-color
+#fcitx5-material-color
 #breeze-grub
 
 # Notification
