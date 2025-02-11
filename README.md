@@ -13,7 +13,7 @@ Minimalism, user-friendliness, low ecological footprint.
 - [PCMan](https://github.com/lxde/pcmanfm) File Manager
 - [Geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - Lightweight applications
-- Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper[(https://snwh.org/paper) icon theme)
+- Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
 - Low CPU usage + Low memory usage + Energy saving = Lower ecological footprint
 - 
 # Screenshots
