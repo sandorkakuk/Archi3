@@ -21,7 +21,7 @@ Minimalism, user-friendliness, low ecological footprint.
 
 # Codenames
 
-Thanks to our diet, many animal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and to draw people's attention to the dangers.
+Thanks to our way of life, many animal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and to draw people's attention to the dangers.
 
 Each release bears the name of an endangered species.
 Background images for the editions are taken from the [WWF](https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status) pages.
