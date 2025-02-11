@@ -300,10 +300,11 @@ blueman
 #update the database
 
 ##Application from local repo
-archlinux-themes-sddm
+#archlinux-themes-sddm
 grub2-theme-archlinux
 plymouth-theme-archlinux
 paper-icon-theme
+sddm-theme-greenleaf
 
 #### want have a btrfs format
 #### use alci-calamares-config-btrfs 
