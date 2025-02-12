@@ -21,7 +21,7 @@ Minimalism, user-friendliness, low ecological footprint.
 
 # Code names
 
-<img align="left" width="100" src="[https://github.com/sandorkakuk/Archi3/blob/master/WWF_logo.svg.png](https://github.com/sandorkakuk/Archi3/blob/master/WWF_Logo_Small_RGB_72dpi.jpg)">
+<img align="left" width="100" src="https://github.com/sandorkakuk/Archi3/blob/master/WWF_Logo_Small_RGB_72dpi.jpg">
 
 Thanks to our way of life, several animal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and alert people to the dangers.
 
