@@ -21,6 +21,8 @@ Minimalism, user-friendliness, low ecological footprint.
 
 # Code names
 
+<img align="left" width="100" height="100" src="[http://www.fillmurray.com/100/100](https://logowik.com/content/uploads/images/753_wwf.jpg)">
+
 <img align="left" width="100" height="100" src="https://www.pentagram.com/news/angus-hyland-writes-about-the-wwf-logo-for-computer-arts#29478">
 
 Thanks to our way of life, animimal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and to draw people's attention to the dangers.
