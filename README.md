@@ -23,8 +23,8 @@ Minimalism, user-friendliness, low ecological footprint.
 
 <img align="left" width="100" src="https://github.com/sandorkakuk/Archi3/blob/master/WWF_logo.svg.png">
 
-Thanks to our way of life, animimal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and to draw people's attention to the dangers.
+Thanks to our way of life, several animal species are threatened with extinction. I would like to pay tribute to these animals with the names of the versions. and alert people to the dangers.
 
 Each release bears the name of an endangered species.
-Background images for the editions are taken from the [WWF](https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status) pages.
+The background images for the editions are taken from the [WWF](https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status) pages.
 
