@@ -274,6 +274,11 @@ dmenu
 # Bluetooth managrt
 blueman
 
+# GUI Packege Manager
+pamac-aur
+picom
+
+
 ##### want to add/use the ArcoLinux repos
 
 ##### want to add/use the Chaotic repo
