@@ -1,4 +1,3 @@
-8
 # Archi3
 
 Yet another linux distribution, based on Arch Linux and i3.
