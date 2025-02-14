@@ -248,7 +248,7 @@ calc
 pcmanfm
 
 # Browser
-firefox
+chromium
 
 # Text editor
 geany
