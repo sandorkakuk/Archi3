@@ -33,7 +33,13 @@ The background images for the editions are taken from the [WWF](https://www.worl
 
 ## Usage
 ### Default keybindings
+
+Keys to use with $mod (Alt):
+
 ![keyboard-layer1](https://github.com/user-attachments/assets/ee164d51-dd8d-4507-9921-f40da5c74f03)
+
+Keys to use with Shift+$mod:
+
 ![keyboard-layer2](https://github.com/user-attachments/assets/6289b9bf-adc7-488a-b13a-ee235f562138)
 
 [i3 reference card](https://i3wm.org/docs/refcard.html)
