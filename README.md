@@ -13,6 +13,8 @@ Minimalism, user-friendliness, low ecological footprint.
 - [PCMan](https://github.com/lxde/pcmanfm) File Manager
 - [Geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [Blueman](https://github.com/blueman-project/blueman) is a GTK+ Bluetooth Manager
+- Alacritty terminal
+- mpv a free, open source, and cross-platform media player
 
 
 - Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
