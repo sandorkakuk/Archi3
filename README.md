@@ -1,4 +1,4 @@
-
+8
 # Archi3
 
 Yet another linux distribution, based on Arch Linux and i3.
@@ -28,5 +28,5 @@ Thanks to our way of life, several animal species are threatened with extinction
 Each release bears the name of an endangered species.
 The background images for the editions are taken from the [WWF](https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status) pages.
 
-WWF® and ©1986 Panda Symbol are owned by WWF. All rights reserved.
+<sub>WWF® and ©1986 Panda Symbol are owned by WWF. All rights reserved.</sub>
 
