@@ -2,6 +2,7 @@
 
 Yet another linux distribution, based on Arch Linux and i3.
 
+
 ## Features
 
 Minimalism, user-friendliness, low ecological footprint.
