@@ -16,7 +16,8 @@ Minimalism, user-friendliness, low ecological footprint.
 - Low CPU usage + Low memory usage + Energy saving = Lower ecological footprint
 - 
 # Screenshots
-![Screenshot_archlinux_2025-02-07_13:16:41](https://github.com/user-attachments/assets/06d32f49-4e04-42ea-8e5d-af127d5ac78d)
+![Screenshot_Archi3_2025-02-14_10:02:36](https://github.com/user-attachments/assets/85ad80f6-e4ec-4dfc-8f63-da814362a575)
+
 
 # Code names
 
