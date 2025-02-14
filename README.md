@@ -2,7 +2,7 @@
 
 Yet another linux distribution, based on Arch Linux and i3.
 
-
+#
 ## Features
 
 Minimalism, user-friendliness, low ecological footprint.
@@ -17,11 +17,12 @@ Minimalism, user-friendliness, low ecological footprint.
 
 - Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
 - Low CPU usage + Low memory usage + Energy saving = Lower ecological footprint
-- 
+
+#
 ## Screenshots
 ![Screenshot_Archi3_2025-02-14_10:02:36](https://github.com/user-attachments/assets/85ad80f6-e4ec-4dfc-8f63-da814362a575)
 
-
+#
 ## Code names
 
 <img align="left" width="100" src="https://github.com/sandorkakuk/Archi3/blob/master/WWF_Logo_Small_RGB_72dpi.jpg">
@@ -34,6 +35,7 @@ The background images for the editions are taken from the [WWF](https://www.worl
 > [!IMPORTANT]
 > >WWF® and ©1986 Panda Symbol are owned by WWF. All rights reserved.
 
+#
 ## Usage
 ### Default keybindings
 
