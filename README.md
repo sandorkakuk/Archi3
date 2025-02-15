@@ -5,8 +5,6 @@ Yet another linux distribution, based on Arch Linux and i3.
 #
 ## Features
 
-Minimalism, user-friendliness, low ecological footprint.
-
 - [Arch Linux](https://archlinux.org/) base system
 - [Calamares](https://calamares.io/) GUI installer
 - [i3](https://i3wm.org/) tiling window manager
