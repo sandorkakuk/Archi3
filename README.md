@@ -35,11 +35,11 @@ Each release bears the name of an endangered species.
 The background images for the editions are taken from the [WWF](https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status) pages.
 
 > [!IMPORTANT]
-> >WWF® and ©1986 Panda Symbol are owned by WWF. All rights reserved.
+> WWF® and ©1986 Panda Symbol are owned by WWF. All rights reserved.
 
 #
-## Usage
-### Default keybindings
+## Use
+### Default i3 keybindings
 
 Keys to use with $mod (Alt):
 
