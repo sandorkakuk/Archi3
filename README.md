@@ -13,6 +13,7 @@ Yet another linux distribution, based on Arch Linux and i3.
 - [Blueman](https://github.com/blueman-project/blueman) is a GTK+ Bluetooth Manager
 - [Alacritty](https://alacritty.org/) terminal
 - [mpv](https://mpv.io/) a free, open source, and cross-platform media player
+- [LXTask](https://github.com/lxde/lxtask) - lightweight and desktop-independent task manager
 
 
 - Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
