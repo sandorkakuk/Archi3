@@ -11,8 +11,8 @@ Yet another linux distribution, based on Arch Linux and i3.
 - [PCMan](https://github.com/lxde/pcmanfm) File Manager
 - [Geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [Blueman](https://github.com/blueman-project/blueman) is a GTK+ Bluetooth Manager
-- Alacritty terminal
-- mpv a free, open source, and cross-platform media player
+- [Alacritty](https://alacritty.org/) terminal
+- [mpv](https://mpv.io/) a free, open source, and cross-platform media player
 
 
 - Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
