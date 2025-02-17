@@ -274,12 +274,12 @@ dmenu
 # Bluetooth managrt
 blueman
 
-#Torrent client
+# Torrent client
 transmission-gtk
 
 # GUI Packege Manager
 pamac-aur
-picom
+libpamac-aur
 
 
 ##### want to add/use the ArcoLinux repos
