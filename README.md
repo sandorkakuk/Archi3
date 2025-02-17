@@ -48,5 +48,16 @@ Keys to use with Shift+$mod:
 
 ![keyboard-layer2](https://github.com/user-attachments/assets/6289b9bf-adc7-488a-b13a-ee235f562138)
 
+### Hotkeys
+
+| Hotkey  | Application |
+| ------------- | ------------- |
+| $mod+f  | File Manager  |
+| $mod+b  | Browser  |
+| $mod+  | Text Editor  |
+| $mod+Return  | Terminal Emulator  |
+| $mod+m  | Monitor settings  |
+
+
 > [!NOTE]
 > More information: [i3 reference card](https://i3wm.org/docs/refcard.html)
