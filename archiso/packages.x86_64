@@ -274,6 +274,9 @@ dmenu
 # Bluetooth managrt
 blueman
 
+#Torrent client
+transmission-gtk
+
 # GUI Packege Manager
 pamac-aur
 picom
