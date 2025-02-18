@@ -60,7 +60,7 @@ Keys to use with Shift+$mod:
 > | ------------- | ------------- |
 > | $mod+shift+f  | File Manager  |
 > | $mod+shift+b  | Browser  |
-> | $mod+shift+e  | Text Editor  |
+> | $mod+shift+t  | Text Editor  |
 > | $mod+Return  | Terminal Emulator  |
 > | $mod+shift+m  | Monitor settings  |
 
