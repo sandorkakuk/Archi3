@@ -2,6 +2,7 @@
 
 Yet another linux distribution, based on Arch Linux and i3.
 
+#
 ## Philosophy
 The system tries to follow [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS principle](https://en.wikipedia.org/wiki/KISS_principle).
 
