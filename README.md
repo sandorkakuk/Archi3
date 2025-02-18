@@ -52,15 +52,16 @@ Keys to use with Shift+$mod:
 
 ![keyboard-layer2](https://github.com/user-attachments/assets/6289b9bf-adc7-488a-b13a-ee235f562138)
 
-### Hotkeys
-
-| Hotkey  | Application |
-| ------------- | ------------- |
-| $mod+shift+f  | File Manager  |
-| $mod+shift+b  | Browser  |
-| $mod+shift+e  | Text Editor  |
-| $mod+Return  | Terminal Emulator  |
-| $mod+shift+m  | Monitor settings  |
+#
+> [!TIP]
+> Hotkeys
+> | Hotkey  | Application |
+> | ------------- | ------------- |
+> | $mod+shift+f  | File Manager  |
+> | $mod+shift+b  | Browser  |
+> | $mod+shift+e  | Text Editor  |
+> | $mod+Return  | Terminal Emulator  |
+> | $mod+shift+m  | Monitor settings  |
 
 
 > [!NOTE]
