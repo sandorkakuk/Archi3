@@ -280,6 +280,7 @@ transmission-gtk
 # GUI Packege Manager
 pamac-aur
 libpamac-aur
+picom
 
 
 ##### want to add/use the ArcoLinux repos
