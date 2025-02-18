@@ -201,16 +201,17 @@ exec_always feh --bg-scale /usr/share/backgrounds/Black_Rhino.jpg
 bindsym $mod+Return exec alacritty
 
 # start a browser
-bindsym $mod+b exec firefox
+bindsym $mod+shift+b exec firefox
 
 # start a File Manager
-#bindsym $mod+f exec pcmanfm
+bindsym $mod+shift+f exec pcmanfm
 
 # start a Text Editor
-bindsym $mod+t exec geany
+bindsym $mod+shift+e exec geany
 
 # start a Monitor settings
-bindsym $mod+m exec lxrandr
+bindsym $mod+shift+m exec lxrandr
+
 
 bar {
         status_command i3status
