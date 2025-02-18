@@ -55,7 +55,7 @@ Keys to use with Shift+$mod:
 
 #
 > [!TIP]
-> Hotkeys
+> Archi3 hotkeys for applications
 > | Hotkey  | Application |
 > | ------------- | ------------- |
 > | $mod+shift+f  | File Manager  |
