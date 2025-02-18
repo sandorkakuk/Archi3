@@ -18,6 +18,7 @@ The system tries to follow [Unix philosophy](https://en.wikipedia.org/wiki/Unix_
 - [Alacritty](https://alacritty.org/) terminal
 - [mpv](https://mpv.io/) a free, open source, and cross-platform media player
 - [LXTask](https://github.com/lxde/lxtask) - lightweight and desktop-independent task manager
+- [Pamac](https://github.com/manjaro/pamac) is a Gtk and CLI front ends of libpamac
 
 
 - Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
