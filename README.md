@@ -55,11 +55,11 @@ Keys to use with Shift+$mod:
 
 | Hotkey  | Application |
 | ------------- | ------------- |
-| $mod+f  | File Manager  |
-| $mod+b  | Browser  |
-| $mod+  | Text Editor  |
+| $mod+shift+f  | File Manager  |
+| $mod+shift+b  | Browser  |
+| $mod+shift+e  | Text Editor  |
 | $mod+Return  | Terminal Emulator  |
-| $mod+m  | Monitor settings  |
+| $mod+shift+m  | Monitor settings  |
 
 
 > [!NOTE]
