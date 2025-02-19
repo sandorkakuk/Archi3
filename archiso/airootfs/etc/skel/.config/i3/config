@@ -287,3 +287,6 @@ bar {
     # 2px top padding, 6px right padding, 4px bottom padding, 1px left padding
     padding 2px 6px 4px 1px
 }
+
+# Authentication dialog
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
