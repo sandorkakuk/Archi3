@@ -290,3 +290,8 @@ bar {
 
 # Authentication dialog
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+# volume
+# exec --no-startup-id pasystray
+exec --no-startup-id volumeicon
+
