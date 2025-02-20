@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+#Name=Install ArchLabs
+Name=Install Archi3
+#Comment=Installer for ArchLabs
+Comment=Installer for Archi3
+Categories=Utility;
+Exec=env QT_QPA_PLATFORMTHEME=Arc-Dark sudo -E calamares
+#Icon=al-calamares
+Icon=Paper
