@@ -1,0 +1,3 @@
+[general]
+## Import additional configuration files.
+import = ["$HOME/.config//alacritty/themes/gruvbox_materia.toml",]
