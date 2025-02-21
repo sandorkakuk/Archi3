@@ -216,9 +216,11 @@ bindsym $mod+shift+t exec geany
 # start a Monitor settings
 bindsym $mod+shift+m exec lxrandr
 
-# pamac-manager
+# Package manager
 bindsym $mod1+shift+p exec --no-startup-id pamac-manager
 
+# Task manager
+bindsym $mod1+p exec --no-startup-id lxtast
 
 bar {
         status_command i3status
