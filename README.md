@@ -12,14 +12,30 @@ The system tries to follow [Unix philosophy](https://en.wikipedia.org/wiki/Unix_
 - [Arch Linux](https://archlinux.org/) base system
 - [Calamares](https://calamares.io/) GUI installer
 - [i3](https://i3wm.org/) tiling window manager
-- [PCMan](https://github.com/lxde/pcmanfm) File Manager
-- [Geany](https://github.com/geany/geany) - A fast and lightweight IDE
+
+## Applications
+
+> [!TIP]
+> Archi3 default applications
+> | Catergory  | junior user | Senior User |
+> | ------------- | ------------- |----------|
+> | Menu  | dmenu |
+> | File Manager | PCManFM | Midnight Commander |
+> | Text editor| Geany | nano |
+> | Monitor Settings| lxrandr | xrandr |
+> | Package Manager | PAmac | pacman |
+> | Task Manager | lxtask | htop |
+
+
+
+
+
+> | $mod+Return  | Terminal Emulator  |
+
+
 - [Blueman](https://github.com/blueman-project/blueman) is a GTK+ Bluetooth Manager
 - [Alacritty](https://alacritty.org/) terminal
 - [mpv](https://mpv.io/) a free, open source, and cross-platform media player
-- [LXTask](https://github.com/lxde/lxtask) - lightweight and desktop-independent task manager
-- [Pamac](https://github.com/manjaro/pamac) is a Gtk and CLI front ends of libpamac
-
 
 - Material Design ([Materia](https://github.com/nana-4/materia-theme) theme, [Paper](https://snwh.org/paper) icon theme)
 - Low CPU usage + Low memory usage + Energy saving = Lower ecological footprint
