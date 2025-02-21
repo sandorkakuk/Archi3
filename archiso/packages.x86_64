@@ -282,6 +282,8 @@ pamac-aur
 libpamac-aur
 picom
 
+# olkit
+polkit-gnome
 
 ##### want to add/use the ArcoLinux repos
 
