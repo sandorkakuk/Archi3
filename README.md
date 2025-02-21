@@ -15,7 +15,7 @@ The system tries to follow [Unix philosophy](https://en.wikipedia.org/wiki/Unix_
 
 ## Applications
 
-> [!TIP]
+> [!NOTE]
 > Archi3 default applications
 > | Catergory  | junior user | Senior User |
 > | ------------- | ------------- |----------|
@@ -25,13 +25,6 @@ The system tries to follow [Unix philosophy](https://en.wikipedia.org/wiki/Unix_
 > | Monitor Settings| lxrandr | xrandr |
 > | Package Manager | PAmac | pacman |
 > | Task Manager | lxtask | htop |
-
-
-
-
-
-> | $mod+Return  | Terminal Emulator  |
-
 
 - [Blueman](https://github.com/blueman-project/blueman) is a GTK+ Bluetooth Manager
 - [Alacritty](https://alacritty.org/) terminal
