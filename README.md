@@ -64,6 +64,8 @@ Keys to use with Shift+$mod:
 > | $mod+Return  | Terminal Emulator  |
 > | $mod+shift+m  | Monitor settings  |
 > | $mod+shift+p  | Package manager  |
+> > | $mod+p  | Task manager  |
+
 
 > [!NOTE]
 > More information: [i3 reference card](https://i3wm.org/docs/refcard.html)
