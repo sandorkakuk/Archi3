@@ -67,7 +67,8 @@ Keys to use with Shift+$mod:
 > Archi3 hotkeys for applications
 > | Hotkey  | Application |
 > | ------------- | ------------- |
-> | $mod+d  | Menu  |
+> | $mod+d  | open application launcher (dmenu)  |
+> | $mod+shift+q  | kill a window  |
 > | $mod+shift+f  | File Manager  |
 > | $mod+shift+b  | Browser  |
 > | $mod+shift+t  | Text Editor  |
