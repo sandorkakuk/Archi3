@@ -142,7 +142,7 @@ zsh
 #alci-dwm-nemesis
 alci-calamares
 #alci-calamares-dev
-alci-calamares-config
+#alci-calamares-config
 #alci-calamares-config-btrfs
 #alci-calamares-config-dev
 #alci-calamares-config-hardened
@@ -151,7 +151,7 @@ alci-calamares-config
 #alci-calamares-config-xanmod
 #alci-calamares-config-zen
 #xterm
-gparted
+#gparted
 
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
@@ -307,6 +307,8 @@ grub2-theme-archlinux
 plymouth-theme-archi3
 paper-icon-theme
 #sddm-theme-greenleaf
+calamares-git
+kcrash
 
 #### want have a btrfs format
 #### use alci-calamares-config-btrfs 
