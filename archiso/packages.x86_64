@@ -304,7 +304,7 @@ polkit-gnome
 ##Application from local repo
 #archlinux-themes-sddm
 grub2-theme-archlinux
-plymouth-theme-archlinux
+plymouth-theme-archi3
 paper-icon-theme
 #sddm-theme-greenleaf
 
