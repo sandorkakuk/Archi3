@@ -308,6 +308,12 @@ plymouth-theme-archi3
 paper-icon-theme
 # sddm-theme-greenleaf
 calamares-git
+
+
+## packages required by local/repo 
+#paper icon theme required
+meson
+# calamares required
 kcrash
 
 #### want have a btrfs format
