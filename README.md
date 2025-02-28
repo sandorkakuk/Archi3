@@ -82,6 +82,6 @@ Keys to use with Shift+$mod:
 > [!NOTE]
 > More information: [i3 reference card](https://i3wm.org/docs/refcard.html)
 
-## imprint
+## Imprint
 
 Thanks to all Linux and open source developers, because without them this project would not have been possible.
