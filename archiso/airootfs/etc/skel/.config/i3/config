@@ -159,7 +159,7 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-#bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -297,23 +297,10 @@ bar {
     padding 2px 6px 4px 1px
 }
 
-# Create Log out, Reboot, Poweroff bindings
-mode "Exit (L)ogout, (R)eboot, (P)oweroff" {
-        bindsym $mod+r exec systemctl reboot
-        bindsym $mod+l exit
-        bindsym $mod+p exec systemctl poweroff
 
-        # back to normal: Enter or Escape
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-}
 
 # Authentication dialog
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-
-# volume
-# exec --no-startup-id pasystray
-exec --no-startup-id volumeicon
 
 # num lock activated
 exec_always --no-startup-id numlockx on
@@ -324,3 +311,5 @@ exec_always --no-startup-id numlockx on
 bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 20 # increase screen brightness
 bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 20 # decrease screen brightness
 
+# Volume control for the system tray
+exec --no-startup-idE volumeicon
