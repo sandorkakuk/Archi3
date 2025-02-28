@@ -318,6 +318,12 @@ kcrash
 #timeshift-autosnap
 git
 
+## Build packages
+fakeroot
+boost
+extra-cmake-modules
+ninja
+qt6-tools
 
 ## Archives
 bzip2
