@@ -302,11 +302,11 @@ polkit-gnome
 #update the database
 
 ##Application from local repo
-#archlinux-themes-sddm
-grub2-theme-archlinux
+# archlinux-themes-sddm
+# grub2-theme-archlinux
 plymouth-theme-archi3
 paper-icon-theme
-#sddm-theme-greenleaf
+# sddm-theme-greenleaf
 calamares-git
 kcrash
 
