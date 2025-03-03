@@ -1,4 +1,4 @@
-# i3status configuration file.
+9# i3status configuration file.
 # see "man i3status" for documentation.
 
 # It is important that this file is edited as UTF-8.
@@ -31,8 +31,16 @@ ethernet _first_ {
         format_down = "E: down"
 }
 
-battery all {
-        format = "%status %percentage %remaining"
+battery 0 {
+        format = "%status %percentage %remaining %emptytime"
+        format_down = "No battery"
+        status_chr = "⚡ CHR"
+        status_bat = "🔋 BAT"
+        status_unk = "? UNK"
+        status_full = "☻ FULL"
+        status_idle = "☻ IDLE"
+        path = "/sys/class/power_supply/BAT%d/uevent"
+        low_threshold = 10
 }
 
 disk "/" {
