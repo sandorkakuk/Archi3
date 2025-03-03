@@ -199,6 +199,11 @@ plymouth
 dracut
 #wayland
 
+## Audio
+pipewire
+pipewire-alsa
+pipewire-pulse
+
 ##### Drivers for graphical cards
 
 #driver for virtualbox - xf86-video-vmware is dependency
@@ -308,6 +313,8 @@ plymouth-theme-archi3
 paper-icon-theme
 # sddm-theme-greenleaf
 calamares-git
+boost
+
 
 
 ## packages required by local/repo 
