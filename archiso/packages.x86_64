@@ -195,9 +195,43 @@ intel-ucode
 xorg
 xorg-drivers
 xorg-fonts
+
+## GPU Drivers (Intel/AMD/VM) ------------------------------
+xf86-video-fbdev
+xf86-video-vesa
+xf86-video-intel
+xf86-video-amdgpu
+xf86-video-ati
+mesa
+mesa-utils
+
+
+## GPU Drivers (Nvidia) ------------------------------
+#xf86-video-nouveau
+#nvidia
+#nvidia-utils
+#nvidia-settings
+
+## Hypervisors ------------------------------
+virtualbox-guest-utils
+qemu-guest-agent
+open-vm-tools
+xf86-input-vmmouse
+xf86-video-vmware
+## Splash Screen
 plymouth
 dracut
 #wayland
+
+## Touchpad and Mouse ------------------------------
+xorg-xinput
+xf86-input-libinput
+
+## Fonts
+noto-fonts
+noto-fonts-emoji
+noto-fonts-cjk
+terminus-font
 
 ## Audio
 pipewire
@@ -232,7 +266,7 @@ sddm
 
 #linux-headers
 
-##### want to add/use a Desktop
+## Display Manager ------------------------------
 i3
 
 # Wallpapers
@@ -368,7 +402,13 @@ ueberzug
 xdg-user-dirs
 xdg-user-dirs-gtk
 
-# Manage Printers in Linu
+# Print
 system-config-printer
+gsfonts
 
 boost-libs
+
+## MAC
+apparmor
+
+
