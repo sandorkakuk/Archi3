@@ -85,3 +85,4 @@ Keys to use with Shift+$mod:
 ## Imprint
 
 Thanks to all Linux and open source developers, because without them this project would not have been possible.
+Special thanks to the [Archcraft](https://github.com/archcraft-os), [Arcolinux](https://github.com/arcolinux) and [EndeavourOS](https://github.com/endeavouros-team) projects, from which I drew ideas.
