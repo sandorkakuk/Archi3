@@ -245,8 +245,8 @@ bar {
 		
 		# Fonts
 		# Specifies the font to be used in the bar.
-		font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
-		font pango:DejaVu Sans Mono 10
+#		font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+		font pango:DejaVu Sans, Icons  10
 		
 		# Custom separator symbol
 		# Specifies a custom symbol to be used for the separator as opposed to the vertical, one pixel thick separator.
@@ -271,7 +271,8 @@ bar {
 		colors {
 			background #000000
 			statusline #ffffff
-			separator #666666
+			separator #ffffff
+
 
 			focused_workspace  #4c7899 #285577 #ffffff
 			active_workspace   #333333 #5f676a #ffffff
@@ -306,10 +307,9 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 exec_always --no-startup-id numlockx on
 
 
-################# xbacklight                       
-
+# xbacklight                       
 bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 20 # increase screen brightness
 bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 20 # decrease screen brightness
 
 # Volume control for the system tray
-exec --no-startup-idE volumeicon
+# exec --no-startup-idE volumeicon
